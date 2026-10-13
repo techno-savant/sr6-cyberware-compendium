@@ -2,18 +2,17 @@
   "id": "sr6-cyberware-compendium",
   "title": "SR6 Core Cyberware",
   "description": "Compendium of cyberware, bioware, and augmentations from the Shadowrun 6th Edition core rulebook, ready to drag onto character sheets.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "manifest": "https://github.com/techno-savant/sr6-cyberware-compendium/releases/latest/download/module.json",
-  "download": "https://github.com/techno-savant/sr6-cyberware-compendium/releases/download/v1.0.0/sr6-cyberware-compendium-v1.0.0.zip",
+  "download": "https://github.com/techno-savant/sr6-cyberware-compendium/releases/download/v1.1.0/sr6-cyberware-compendium-v1.1.0.zip",
   "authors": [
     {
       "name": "jcmurray"
     }
   ],
   "compatibility": {
-    "minimum": "12",
-    "verified": "12",
-    "maximum": "13"
+    "minimum": "13",
+    "verified": "14.369"
   },
   "relationships": {
     "systems": [
